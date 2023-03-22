@@ -7,7 +7,8 @@
 
 void print_alphapet_x10(void)
 {
-	int line, ch;
+	int line;
+	char ch;
 
 	for (line = 0; line <= 9; line++)
 	{
